@@ -1,0 +1,8 @@
+C:\Users\L E N O V O\source\repos\RaulMahya\RaulMahya\bin\Debug\RaulMahya.exe.config
+C:\Users\L E N O V O\source\repos\RaulMahya\RaulMahya\bin\Debug\RaulMahya.exe
+C:\Users\L E N O V O\source\repos\RaulMahya\RaulMahya\bin\Debug\RaulMahya.pdb
+C:\Users\L E N O V O\source\repos\RaulMahya\RaulMahya\obj\Debug\RaulMahya.csproj.AssemblyReference.cache
+C:\Users\L E N O V O\source\repos\RaulMahya\RaulMahya\obj\Debug\RaulMahya.csproj.SuggestedBindingRedirects.cache
+C:\Users\L E N O V O\source\repos\RaulMahya\RaulMahya\obj\Debug\RaulMahya.csproj.CoreCompileInputs.cache
+C:\Users\L E N O V O\source\repos\RaulMahya\RaulMahya\obj\Debug\RaulMahya.exe
+C:\Users\L E N O V O\source\repos\RaulMahya\RaulMahya\obj\Debug\RaulMahya.pdb
